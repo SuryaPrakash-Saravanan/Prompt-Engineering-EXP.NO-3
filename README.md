@@ -70,23 +70,27 @@ Prompt: Compare AC and DC current in a table.
 
 Answer:
 
-Feature	AC Current	DC Current
-Full Form	Alternating Current	Direct Current
-Direction	Changes direction periodically	Flows in one direction
-Common Source	Power stations	Batteries
-Usage	Home electricity supply	Electronic devices
+| Feature       | AC Current                     | DC Current             |
+| ------------- | ------------------------------ | ---------------------- |
+| Full Form     | Alternating Current            | Direct Current         |
+| Direction     | Changes direction periodically | Flows in one direction |
+| Common Source | Power stations                 | Batteries              |
+| Usage         | Home electricity supply        | Electronic devices     |
+
 Prompt 2
 
 Prompt: Provide a table listing five programming languages and their main use cases.
 
 Answer:
 
-Programming Language	Main Use Case
-Python	Data science and AI
-Java	Enterprise applications
-C	System programming
-JavaScript	Web development
-SQL	Database management
+| Programming Language | Main Use Case           |
+| -------------------- | ----------------------- |
+| Python               | Data science and AI     |
+| Java                 | Enterprise applications |
+| C                    | System programming      |
+| JavaScript           | Web development         |
+| SQL                  | Database management     |
+
 3. Preceding Question Prompting
 Prompt 1
 
