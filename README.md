@@ -122,4 +122,4 @@ Answer:
 Internet Protocol
 
 RESULT:
-The experiment demonstrated that different prompting styles can guide AI to produce different types of responses such as definitions, comparisons, explanations, and fill-in-the-blank answers. Each prompt type helps structure AI responses effectively depending on the task.
+The experiment demonstrated that different prompting styles can guide AI to produce different types of responses such as definitions, comparisons, explanations, and fill-in-the-blank answers. Each prompt type helps structure AI responses effectively depending on the task
